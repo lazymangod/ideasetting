@@ -1,0 +1,15 @@
+<code_scheme name="Default (4)">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SMART_EDIT_TABLES" value="true" />
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>

@@ -1,0 +1,25 @@
+<templateSet group="Java">
+  <template name="log" value="private static final Logger log = LoggerFactory.getLogger($CLASS_NAME$.class);" description="log" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="const" value="private static final $type$ $name$ = $value$;" description="Define android style int constant" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="NAME" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="sbc" value="///////////////////////////////////////////////////////////////////////////&#10;// $blockName$&#10;///////////////////////////////////////////////////////////////////////////" description="block comment for structuring code" toReformat="true" toShortenFQNames="true">
+    <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

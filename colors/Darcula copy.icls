@@ -1,0 +1,27 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DialogInput" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <option name="CONSOLE_FONT_NAME" value="DialogInput" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
+  <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="DEBUGGER_INLINED_VALUES">
+      <value>
+        <option name="FOREGROUND" value="73421d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
+    </option>
+  </attributes>
+</scheme>

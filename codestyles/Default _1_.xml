@@ -1,0 +1,10 @@
+<code_scheme name="Default (1)">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="0" />
+  </codeStyleSettings>
+</code_scheme>

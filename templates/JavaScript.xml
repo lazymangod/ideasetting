@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="thyjs" value="&lt;script th:inline=&quot;javascript&quot;&gt;&#10;    /*&lt;![CDATA[*/&#10;    &#10;    $END$&#10;    &#10;    /*]]&gt;*/&#10;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jsvar" value="var $VAR$ =/*[[$END$]]*/;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

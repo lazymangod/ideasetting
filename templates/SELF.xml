@@ -1,0 +1,14 @@
+<templateSet group="SELF">
+  <template name="apv" value="@Autowired&#10;private $END$" shortcut="ENTER" description="@Autowired private property" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="vpv" value="@Value(&quot;${$PROPNAME$}&quot;)&#10;private String $PNAME$;" shortcut="ENTER" description="@Value of private property" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="evlsprt3.172" value="10" />
+    <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1512800425302" />
+    <property name="ts.lib.d.ts.version" value="2.6.1" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="3" />
+    <property name="file.chooser.recent.files" value="D:/ueditor-test-master&#10;D:/Git/bin/git.exe&#10;C:/Users/yxy20/Desktop/gs-batch-processing-master/complete&#10;D:/apache-maven-3.5.2&#10;D:/apache-maven-3.5.2/bin&#10;D:/GitHub/sagan&#10;C:/Users/yxy20/Downloads/initializr-master/druidTest/README.md&#10;D:/GitHub&#10;D:/database-bak&#10;D:/&#10;C:/&#10;C:/Users/yxy20/Downloads/initializr-master/initializr-master&#10;E:/settings.jar&#10;D:/GitHub/hsweb-framework&#10;D:/java-lib&#10;C:/Program Files/Java/jdk1.8.0_144" />
+    <property name="file.gist.reindex.count" value="11110" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="PLUGIN_FILTER" value="jreb&#10;activity&#10;activ&#10;lomb&#10;rest" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="selected.color.option.type" value="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="last.imported.location" value="D:/ueditor-test-master" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="LiveContextsPanel[0]" value="0.10272214" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="kotlin.lastUpdateCheck" value="1511636392167" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="search.everywhere.max.popup.width" value="780" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6242857" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6731537" />
+    <property name="SplitFileEditor.Proportion" value="0.53063726" />
+    <property name="evlsprt3.173" value="13" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="KEYMAP" value="compl&#10;completon" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="SearchEveryWhereHistory" value="JDBC&#10;AbstractItemCountingItemStreamItemReader.java&#10;CommandlineR&#10;AnnotationMBeanExporter&#10;PropertyPlaceholderAutoConfiguration" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.101265825" />
+    <property name="SpringBeansModulesPanel[0]" value="0.101265825" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+  </component>
+</application>

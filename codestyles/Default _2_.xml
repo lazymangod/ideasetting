@@ -1,0 +1,19 @@
+<code_scheme name="Default (2)">
+  <option name="RIGHT_MARGIN" value="160" />
+  <JavaCodeStyleSettings>
+    <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
+  </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="JAVA">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="FIELD_ANNOTATION_WRAP" value="0" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
+  </codeStyleSettings>
+</code_scheme>
