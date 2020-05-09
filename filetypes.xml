@@ -4,6 +4,7 @@
       <mapping pattern="testjsp" type="JSP" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="proxy" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
